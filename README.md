@@ -61,16 +61,4 @@ Key predictors included age, cholesterol, blood pressure, and ECG features.
 
 The model provides accurate binary predictions (0 = No Heart Disease, 1 = Heart Disease).
 
-📂 Repository Structure
-📂 <YourRepoName>
-│── 📄 <YourNotebookName>.ipynb     # Main Google Colab notebook
-│── 📄 README.md                    # Documentation
-│── 📄 requirements.txt             # Dependencies
-│── 📄 .gitignore                   # Ignore unnecessary files (optional)
-│── 📂 results/                     # Graphs, predictions (optional)
 
-✅ Future Improvements
-
-Deploy the model as a web application (Flask/Streamlit).
-
-Add more medical attributes for improved accuracy.
