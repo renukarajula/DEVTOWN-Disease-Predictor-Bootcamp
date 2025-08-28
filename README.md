@@ -35,10 +35,14 @@ scikit-learn → machine learning models
 
 joblib → model saving/loading
 
+Dataset Source: Kaggle
+
 🚀 How to Run
 ▶️ Run on Google Colab
 
 Click the "Open in Colab" badge above.
+
+Upload the dataset from Kaggle
 
 Run the notebook step by step to preprocess data, train models, and view predictions.
 
