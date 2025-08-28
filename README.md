@@ -45,13 +45,13 @@ Run the notebook step by step to preprocess data, train models, and view predict
 💻 Run Locally (Optional)
 # Clone the repository
 git clone https://github.com/<YourUsername>/<DEVTOWN-Disease-Predictor-Bootcamp>.git
-cd <YourRepoName>
+cd <DEVTOWN-Disease-Predictor-Bootcamp_by_DEVTON>
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Open Jupyter Notebook
-jupyter notebook <YourNotebookName>.ipynb
+jupyter notebook <Disease_Predictor_5Days_Bootcamp>.ipynb
 
 📊 Results & Insights
 
